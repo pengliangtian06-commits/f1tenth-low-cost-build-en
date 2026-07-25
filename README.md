@@ -2,6 +2,8 @@
 
 This repository describes a self-assembled, low-cost **F1TENTH-like** vehicle for robotics courses, student projects, and research prototyping. It retains the core architecture—a 1:10 four-wheel-drive chassis, Ackermann steering, VESC, ROS 2, 2D LiDAR, and NVIDIA Jetson—but it is **not guaranteed to comply with current RoboRacer/F1TENTH competition rules**.
 
+[中文版（人民币预算）](https://github.com/pengliangtian06-commits/f1tenth-low-cost-build-cn)
+
 > Assumption: you already own a NVIDIA Jetson Orin Nano, so the computer is excluded from all totals. Prices are planning estimates dated 2026-07-26. USD values use a fixed planning rate of **USD 1 = CNY 7.20**; shipping, tax, exchange-rate changes, and regional availability are excluded.
 
 ## Budget tiers (USD)
@@ -137,4 +139,3 @@ Before ordering, request the exact model, USB adapter, voltage, baud rate, scan 
 ## Disclaimer
 
 This project is for education and research. Re-check current prices, dimensions, connectors, power requirements, ARM64/ROS 2 driver support, return policies, and current competition rules before purchasing. Do not operate the vehicle on public roads or near crowds, stairs, glass doors, or flammable materials.
-
