@@ -1,0 +1,15 @@
+Component,Key specification,Quantity,Estimated cost USD,Search phrase
+1:10 4WD short-course rolling chassis,300-330mm wheelbase; metal drivetrain; Ackermann steering,1,97-153,1/10 4WD short course rolling chassis
+3650 brushless motor,2500-3300KV; matched to chassis gearing,1,17-31,3650 brushless motor 3300KV
+Metal-gear steering servo,20-25kg; 6-8.4V,1,14-31,25kg metal gear servo
+VESC 6.x-compatible controller,USB; speed/current feedback; flashable firmware,1,76-125,VESC 6.6 USB CAN
+Budget 2D LiDAR,LD19/LD06 class; 360 degrees; verified ROS2 driver,1,97-153,LD19 LiDAR ROS2
+UVC wide-angle camera,1080p; 90-120 degree FOV,1,14-31,UVC wide angle camera 120 degree
+3S LiPo battery,11.1V; 4000-5200mAh; >=30C; XT60; hard case,1,36-58,3S 5200mAh XT60 hard case LiPo
+Balance charger,Genuine 3S LiPo balance charging; power supply included,1,25-44,B6AC LiPo balance charger
+Dedicated Orin regulator,3S input; low-ripple 12V/5A or 19V/3A,1,17-36,low ripple buck boost converter 12V 5A
+Servo UBEC,Independent 6V/5A or 7.4V/5A,1,7-17,UBEC 6V 5A servo
+Distribution and safety hardware,XT60 splitter; fuse; master switch; E-stop; terminals,1 set,21-42,XT60 fuse emergency stop switch
+Upper deck and mounts,3-5mm FR4 or acrylic; standoffs; damping mounts,1 set,21-49,custom acrylic laser cutting
+Cables and fasteners,Short USB cables; heat-shrink; screws; ties,1 set,21-39,short USB cable heat shrink screws
+Cooling and protection,Orin fan; LiDAR guard; LiPo fire-resistant bag,1 set,14-31,LiPo safety bag fan LiDAR guard
